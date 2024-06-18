@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+    <PropertyGroup>
+        <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+        <GenerateBindingRedirectsOutputType>true</GenerateBindingRedirectsOutputType>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Lab5.CoreBusinessRules\Lab5.CoreBusinessRules.csproj" />
+    </ItemGroup>
+
+
+
+    <ItemGroup>
+      <PackageReference Include="FluentMigrator" />
+      <PackageReference Include="FluentMigrator.Runner" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection" />
+      <PackageReference Include="Npgsql" />
+    </ItemGroup>
+
+
+
+
+
+
+
+
+
+
+</Project>

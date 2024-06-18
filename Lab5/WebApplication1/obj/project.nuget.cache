@@ -1,0 +1,70 @@
+{
+  "version": 2,
+  "dgSpecHash": "81OmskMloi6KrfdIge6k3eGxtrr12pGm4IZyp3tpEWJprzCAWdcKY1sAZpthtG1EsV+b1pW3lF8+H9XlBH0m3w==",
+  "success": false,
+  "projectFilePath": "/Users/snezhana/RiderProjects/sskrolkina/src/Lab5/WebApplication1/WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "/Users/snezhana/.nuget/packages/sourcekit.analyzers.collections/1.0.4/sourcekit.analyzers.collections.1.0.4.nupkg.sha512",
+    "/Users/snezhana/.nuget/packages/sourcekit.analyzers.enumerable/0.0.1/sourcekit.analyzers.enumerable.0.0.1.nupkg.sha512",
+    "/Users/snezhana/.nuget/packages/sourcekit.analyzers.memberaccessibility/1.0.4/sourcekit.analyzers.memberaccessibility.1.0.4.nupkg.sha512",
+    "/Users/snezhana/.nuget/packages/sourcekit.analyzers.nullable/1.0.4/sourcekit.analyzers.nullable.1.0.4.nupkg.sha512",
+    "/Users/snezhana/.nuget/packages/sourcekit.analyzers.properties/1.0.4/sourcekit.analyzers.properties.1.0.4.nupkg.sha512",
+    "/Users/snezhana/.nuget/packages/stylecop.analyzers/1.0.0/stylecop.analyzers.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1604",
+      "level": "Error",
+      "message": "Warning As Error: Project dependency SourceKit.Analyzers.Collections does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
+      "libraryId": "SourceKit.Analyzers.Collections",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v7.0"
+      ]
+    },
+    {
+      "code": "NU1604",
+      "level": "Error",
+      "message": "Warning As Error: Project dependency SourceKit.Analyzers.Enumerable does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
+      "libraryId": "SourceKit.Analyzers.Enumerable",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v7.0"
+      ]
+    },
+    {
+      "code": "NU1604",
+      "level": "Error",
+      "message": "Warning As Error: Project dependency SourceKit.Analyzers.MemberAccessibility does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
+      "libraryId": "SourceKit.Analyzers.MemberAccessibility",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v7.0"
+      ]
+    },
+    {
+      "code": "NU1604",
+      "level": "Error",
+      "message": "Warning As Error: Project dependency SourceKit.Analyzers.Nullable does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
+      "libraryId": "SourceKit.Analyzers.Nullable",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v7.0"
+      ]
+    },
+    {
+      "code": "NU1604",
+      "level": "Error",
+      "message": "Warning As Error: Project dependency SourceKit.Analyzers.Properties does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
+      "libraryId": "SourceKit.Analyzers.Properties",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v7.0"
+      ]
+    },
+    {
+      "code": "NU1604",
+      "level": "Error",
+      "message": "Warning As Error: Project dependency StyleCop.Analyzers does not contain an inclusive lower bound. Include a lower bound in the dependency version to ensure consistent restore results.",
+      "libraryId": "StyleCop.Analyzers",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v7.0"
+      ]
+    }
+  ]
+}

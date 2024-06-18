@@ -1,0 +1,17 @@
+/Users/snezhana/RiderProjects/sskrolkina/src/Lab5/Lab5.CoreBusinessRules/bin/Debug/net7.0/Lab5.CoreBusinessRules.deps.json
+/Users/snezhana/RiderProjects/sskrolkina/src/Lab5/Lab5.CoreBusinessRules/bin/Debug/net7.0/Lab5.CoreBusinessRules.dll
+/Users/snezhana/RiderProjects/sskrolkina/src/Lab5/Lab5.CoreBusinessRules/bin/Debug/net7.0/Lab5.CoreBusinessRules.pdb
+/Users/snezhana/RiderProjects/sskrolkina/src/Lab5/Lab5.CoreBusinessRules/bin/Debug/net7.0/Lab5.CoreBusinessRules.xml
+/Users/snezhana/RiderProjects/sskrolkina/src/Lab5/Lab5.CoreBusinessRules/obj/Debug/net7.0/Lab5.CoreBusinessRules.csproj.AssemblyReference.cache
+/Users/snezhana/RiderProjects/sskrolkina/src/Lab5/Lab5.CoreBusinessRules/obj/Debug/net7.0/Lab5.CoreBusinessRules.GeneratedMSBuildEditorConfig.editorconfig
+/Users/snezhana/RiderProjects/sskrolkina/src/Lab5/Lab5.CoreBusinessRules/obj/Debug/net7.0/Lab5.CoreBusinessRules.AssemblyInfoInputs.cache
+/Users/snezhana/RiderProjects/sskrolkina/src/Lab5/Lab5.CoreBusinessRules/obj/Debug/net7.0/Lab5.CoreBusinessRules.AssemblyInfo.cs
+/Users/snezhana/RiderProjects/sskrolkina/src/Lab5/Lab5.CoreBusinessRules/obj/Debug/net7.0/Lab5.CoreBusinessRules.csproj.CoreCompileInputs.cache
+/Users/snezhana/RiderProjects/sskrolkina/src/Lab5/Lab5.CoreBusinessRules/obj/Debug/net7.0/Lab5.CoreBusinessRules.dll
+/Users/snezhana/RiderProjects/sskrolkina/src/Lab5/Lab5.CoreBusinessRules/obj/Debug/net7.0/refint/Lab5.CoreBusinessRules.dll
+/Users/snezhana/RiderProjects/sskrolkina/src/Lab5/Lab5.CoreBusinessRules/obj/Debug/net7.0/Lab5.CoreBusinessRules.xml
+/Users/snezhana/RiderProjects/sskrolkina/src/Lab5/Lab5.CoreBusinessRules/obj/Debug/net7.0/Lab5.CoreBusinessRules.pdb
+/Users/snezhana/RiderProjects/sskrolkina/src/Lab5/Lab5.CoreBusinessRules/obj/Debug/net7.0/ref/Lab5.CoreBusinessRules.dll
+/Users/snezhana/RiderProjects/sskrolkina/src/Lab5/Lab5.CoreBusinessRules/bin/Debug/net7.0/Lab5.CoreBusinessRules.dll.config
+/Users/snezhana/RiderProjects/sskrolkina/src/Lab5/Lab5.CoreBusinessRules/obj/Debug/net7.0/Lab5.CoreBusinessRules.csproj.SuggestedBindingRedirects.cache
+/Users/snezhana/RiderProjects/sskrolkina/src/Lab5/Lab5.CoreBusinessRules/obj/Debug/net7.0/Lab5.CoreBusinessRules.dll.config

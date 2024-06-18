@@ -1,0 +1,153 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lab5.CoreBusinessRules/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": "8.0.0",
+          "SourceKit.Analyzers.Collections": "1.0.23",
+          "SourceKit.Analyzers.Enumerable": "1.0.23",
+          "SourceKit.Analyzers.MemberAccessibility": "1.0.23",
+          "SourceKit.Analyzers.Nullable": "1.0.23",
+          "SourceKit.Analyzers.Properties": "1.0.23",
+          "StyleCop.Analyzers": "1.2.0-beta.507"
+        },
+        "runtime": {
+          "Lab5.CoreBusinessRules.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection/8.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0"
+        },
+        "runtime": {
+          "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0": {
+        "runtime": {
+          "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.53103"
+          }
+        }
+      },
+      "SourceKit/1.1.23": {},
+      "SourceKit.Analyzers.Collections/1.0.23": {
+        "dependencies": {
+          "SourceKit": "1.1.23"
+        }
+      },
+      "SourceKit.Analyzers.Enumerable/1.0.23": {
+        "dependencies": {
+          "SourceKit": "1.1.23"
+        }
+      },
+      "SourceKit.Analyzers.MemberAccessibility/1.0.23": {
+        "dependencies": {
+          "SourceKit": "1.1.23"
+        }
+      },
+      "SourceKit.Analyzers.Nullable/1.0.23": {
+        "dependencies": {
+          "SourceKit": "1.1.23"
+        }
+      },
+      "SourceKit.Analyzers.Properties/1.0.23": {
+        "dependencies": {
+          "SourceKit": "1.1.23"
+        }
+      },
+      "StyleCop.Analyzers/1.2.0-beta.507": {
+        "dependencies": {
+          "StyleCop.Analyzers.Unstable": "1.2.0.507"
+        }
+      },
+      "StyleCop.Analyzers.Unstable/1.2.0.507": {}
+    }
+  },
+  "libraries": {
+    "Lab5.CoreBusinessRules/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-V8S3bsm50ig6JSyrbcJJ8bW2b9QLGouz+G1miK3UTaOWmMtFwNNNzUf4AleyDWUmTrWMLNnFSLEQtxmxgNQnNQ==",
+      "path": "microsoft.extensions.dependencyinjection/8.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cjWrLkJXK0rs4zofsK4bSdg+jhDLTaxrkXu4gS6Y7MAlCvRyNNgwY/lJi5RDlQOnSZweHqoyvgvbdvQsRIW+hg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/8.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    },
+    "SourceKit/1.1.23": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ylbUYvVLpLfLM8/xilaWRX/+JJbYcDih6YcNdKKMeR459YWPFcbQW29uqwjphkYt4HBs/08zh1lTPpbsgayKJg==",
+      "path": "sourcekit/1.1.23",
+      "hashPath": "sourcekit.1.1.23.nupkg.sha512"
+    },
+    "SourceKit.Analyzers.Collections/1.0.23": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-t7dLJMjxxLVkgiRphWpPKL1XMcdz/S7LBdQZBA9yAGicKf45YBy5AbiU9JobIr3WlNjavcowvpV+PFbL+IRCGQ==",
+      "path": "sourcekit.analyzers.collections/1.0.23",
+      "hashPath": "sourcekit.analyzers.collections.1.0.23.nupkg.sha512"
+    },
+    "SourceKit.Analyzers.Enumerable/1.0.23": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-k16n1hAxa/ZTf5qxhzfBfD4g4FcVv96aTZTp+if5OSBFI1MuFKO3NqKZbH3+Z4z1wt+qS89t0CPe/0keaLLiBQ==",
+      "path": "sourcekit.analyzers.enumerable/1.0.23",
+      "hashPath": "sourcekit.analyzers.enumerable.1.0.23.nupkg.sha512"
+    },
+    "SourceKit.Analyzers.MemberAccessibility/1.0.23": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nd7byA4Q+u8NcDbFmCQ3eV+K2Beg9D7vyxHeDPxxEVzSspNFdIlDWQy5J0kRv603ks7lgir80ySDzMBvOiu6qg==",
+      "path": "sourcekit.analyzers.memberaccessibility/1.0.23",
+      "hashPath": "sourcekit.analyzers.memberaccessibility.1.0.23.nupkg.sha512"
+    },
+    "SourceKit.Analyzers.Nullable/1.0.23": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Pr+ttlyYJo/xyWfAHQLRXkZkm71dXf4/YFthUb5bjCucXik64u6BeRBT4TOHV1lTZDXQtYaCOVfkuBzFBnPK6A==",
+      "path": "sourcekit.analyzers.nullable/1.0.23",
+      "hashPath": "sourcekit.analyzers.nullable.1.0.23.nupkg.sha512"
+    },
+    "SourceKit.Analyzers.Properties/1.0.23": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-X46uWB3yd//7xuVDVDc+iu35Fy64H7hYYhaUWz++P536sMF3LXneHb4moBQlQ1cxdNPKjz0lFwDE5LC5+SN4ow==",
+      "path": "sourcekit.analyzers.properties/1.0.23",
+      "hashPath": "sourcekit.analyzers.properties.1.0.23.nupkg.sha512"
+    },
+    "StyleCop.Analyzers/1.2.0-beta.507": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/FtugDT66cKJJ+GGH7rNpG6UDrT4iIWz45M6lrXXHobDUFDHw+q5VgkbiR+6ffTO564ge7w6fQh/eoQhVdJO8Q==",
+      "path": "stylecop.analyzers/1.2.0-beta.507",
+      "hashPath": "stylecop.analyzers.1.2.0-beta.507.nupkg.sha512"
+    },
+    "StyleCop.Analyzers.Unstable/1.2.0.507": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gTY3IQdRqDJ4hbhSA3e/R48oE8b/OiKfvwkt1QdNVfrJK2gMHBV8ldaHJ885jxWZfllK66soa/sdcjh9bX49Tw==",
+      "path": "stylecop.analyzers.unstable/1.2.0.507",
+      "hashPath": "stylecop.analyzers.unstable.1.2.0.507.nupkg.sha512"
+    }
+  }
+}
